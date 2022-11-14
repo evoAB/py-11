@@ -1,0 +1,1 @@
+print("Count = ",len(str(int(input("Enter a number ")))))
